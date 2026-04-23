@@ -3,6 +3,6 @@ cc_library_headers {
     name: "extra_kernel_headers",
     vendor: true,
     export_include_dirs: [
-        "kernel-headers/usr/include",
+        "kernel-headers",
     ],
 }
