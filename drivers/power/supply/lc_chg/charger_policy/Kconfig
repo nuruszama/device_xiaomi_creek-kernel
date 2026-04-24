@@ -1,0 +1,19 @@
+#SPDX-License-Identifier: GPL-2.0
+
+config LC_CHARGER_MANAGER
+	tristate "support lc charger manger"
+	default n
+	help
+		Say Y here to support lc charger manger.
+
+config LC_CP_POLICY
+	tristate "support lc charger pump policy"
+	default n
+	help
+		Say Y here to support lc charger class.
+
+config LC_QC_POLICY
+	tristate "support lc qc policy"
+	default n
+	help
+		Say Y here to support lc charger class.
