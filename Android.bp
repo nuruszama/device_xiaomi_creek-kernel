@@ -1,8 +1,8 @@
-cc_library_headers {
-    name: "extra_kernel_headers",
-    visibility: ["//visibility:public"],
-
-    export_include_dirs: [
-        "kernel-headers",
-    ],
-}
+//cc_library_headers {
+//    name: "extra_kernel_headers",
+//    visibility: ["//visibility:public"],
+//
+//    export_include_dirs: [
+//        "kernel-headers",
+//    ],
+//}
