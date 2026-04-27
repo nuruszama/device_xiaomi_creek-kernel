@@ -6,3 +6,6 @@
 //        "kernel-headers",
 //    ],
 //}
+include_dirs: [
+    "kernel-headers",
+],
